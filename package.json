@@ -38,5 +38,8 @@
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "prisma": "^5.11.0"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }
