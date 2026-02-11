@@ -9,6 +9,7 @@ npm i
 
 ```js
 NEXT_PUBLIC_API_URL=
+BILL_BOARD_ID=
 ```
 
 
